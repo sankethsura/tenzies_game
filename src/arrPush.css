@@ -1,0 +1,11 @@
+.boxes{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-color: aliceblue;
+    font-size: .8rem;
+    margin: 20px;
+    border-radius: 30px;
+    
+
+}
